@@ -1,0 +1,2 @@
+This tool has been developed by LIX. Some tools have been taken from some people.
+All copyrights have been preserved. Currently, the tool is on line number 350. Updates will always be made, and this text will change when updates are available. Currently, version number - 0.1 by lix#4300

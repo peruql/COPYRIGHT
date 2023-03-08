@@ -1,2 +1,6 @@
-This tool has been developed by LIX. Some tools have been taken from some people.
-All copyrights have been preserved. Currently, the tool is on line number 350. Updates will always be made, and this text will change when updates are available. Currently, version number - 0.1 by lix#4300
+WHO CREATED THIS TOOL ? 
+LIX#4300 or Haithem same person anyway some tools are not mine like tiktok downloader but evreything else is mine
+how to know if there any update ?
+always check this text its synced to github text repo there will be url to download new update
+----------------------------------------------------------------------------------------------
+Current version is 0.1  @COPYRIGHT SAVED - @MADEWITHLOVE♥
